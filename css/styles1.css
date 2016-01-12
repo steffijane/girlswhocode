@@ -1,9 +1,3 @@
-.header {
-	background: url(../imgs/empower3copy.jpg) no-repeat center center;
-	background-size: cover;
-	width: 100%;
-	height: 300px;
-}
 
 h1 {
 	font-size: 32pt;
@@ -36,6 +30,14 @@ button:hover {
 	background-color: #bd163c;
 }
 
+/* Header and navigation links */
+
+.header {
+	background: url(../imgs/empower3copy.jpg) no-repeat center center;
+	background-size: cover;
+	width: 100%;
+	height: 300px;
+}
 
 nav {
 	width: 100%;
@@ -44,8 +46,6 @@ nav {
 	color: #ffffff;
 }
 
-
-/* Navigation links */
 nav ul {
 	list-style: none;
 	padding-left: 0px;
